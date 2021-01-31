@@ -1,5 +1,7 @@
 {
   "name": "lean-update",
+  "description": "Static assets for the Lean Update app",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
